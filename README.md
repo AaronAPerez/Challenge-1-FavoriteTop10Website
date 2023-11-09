@@ -8,6 +8,6 @@ Project Name: Challenge #1
 <br>
 Project Description:
 <br>
-Reviewed by:
+<strong>Reviewed by:</strong> David Jimenez - I like your Top Ten idea for sports.  I see you all decided on sticking to a similar layout and added lots of content.  I'm glad to see that you all used github to add your conented to each of your pages.
 <br>
 Comments:
